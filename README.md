@@ -1,6 +1,6 @@
 Website Link  :  https://antonyshinson.github.io/Task-Manager/
 
-/nTask Manager 📝
+ Task Manager 📝
 A simple React + Vite app to manage projects and tasks.
 
 Features
